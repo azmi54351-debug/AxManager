@@ -1,3 +1,5 @@
+
+adb install app/build/outputs/apk/debug/app-debug.apk
 # Axeron Manager (Proof of Concept)
 
 > **Axeron Manager (AxManager)** is a Proof of Concept (POC) for a self-created environment on Android that leverages ADB permissions to provide system-level control. This project explores the idea of creating a persistent, independent ADB-based execution layer within the system.
